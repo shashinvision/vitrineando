@@ -14,23 +14,54 @@
  }
 
  .paises, .comunas {
-     widows: 100%;
+     width: 100%;
  }
 
+ /* fonos */
+
  @media only screen and (max-width: 360px) {
+     .section, .container {
+         margin-top: 2px!important;
+         padding-top: 2px!important;
+     }
      .relax, .paisesComunas, select {
          margin-left: auto;
          margin-right: auto;
+     }
+     .paisesComunas, select {
          width: 100%;
      }
+     .relax {
+         width: 60%;
+         margin-left: 25%;
+     }
      .homeCard, .sesion {
-         margin-top: 20px;
+         margin-top: 1%;
      }
      .logo {
-         margin-top: 10%;
+         margin-top: 5%;
          margin-left: auto;
          margin-right: auto;
          width: 100%;
          text-align: center
+     }
+ }
+
+ /* tablets */
+
+ @media only screen and (min-width: 361px) and (max-width: 860px) {
+     .relax, .paisesComunas, select {
+         margin-left: 0 auto;
+         margin-right: 0 auto;
+     }
+     .relax {
+         width: 60%;
+         margin-left: 25%;
+     }
+     .paisesComunas {
+         width: 50%;
+     }
+     .homeCard, .sesion {
+         margin-top: 20px;
      }
  }

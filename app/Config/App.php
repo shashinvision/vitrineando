@@ -22,6 +22,8 @@ class App extends BaseConfig
 	|
 	*/
 	public $baseURL = 'http://localhost/vitrineando/public/';
+	// pruebas con el celular
+	// public $baseURL = 'http://192.168.0.103/vitrineando/public/';
 
 	/*
 	|--------------------------------------------------------------------------
