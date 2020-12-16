@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="<?=base_url();?>/assets/css/styles.css">
     <link href="<?=base_url();?>/assets/fontawesome/css/all.css" rel="stylesheet">
     <!--load all styles -->
-    <title>vitrineando.cl</title>
+    <title>vitrineaya.cl</title>
 </head>
 
 <body>
@@ -39,7 +39,7 @@
             <div class="columns">
                 <div class="column">
                     <h1 class="title logo">
-                        Vitrineando.cl
+                        vitrineaya.cl
                     </h1>
                 </div>
             </div>
