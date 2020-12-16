@@ -2,7 +2,7 @@
     <div class="column is-half">
         <div class="field has-addons">
             <div class="control busqueda">
-                <input class="input " type="text" placeholder="¿Que deseas buscar?...">
+                <input class="input is-focused" type="text" placeholder="¿Que deseas buscar?...">
             </div>
             <div class="control">
                 <a class="button is-info">
