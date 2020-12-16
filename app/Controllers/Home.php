@@ -9,6 +9,12 @@ class Home extends BaseController
 		echo view('layout/footer');
 	}
 
+	public function busqueda(){
+		echo view('layout/header');
+		echo view('layout/mainSearch');
+		echo view('layout/footer');
+	}
+
 	//--------------------------------------------------------------------
 
 }

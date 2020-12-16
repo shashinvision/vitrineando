@@ -51,9 +51,4 @@
             </div>
         </div>
     </div>
-    <div class="columns">
-        <div class="colum">
-
-        </div>
-    </div>
 </div>
