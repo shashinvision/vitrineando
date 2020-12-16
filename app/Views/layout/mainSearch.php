@@ -263,4 +263,9 @@
             </div>
         </div>
     </div>
+    <div class="columns is-centered">
+        <div class="column is-half verMas">
+            <button class="button is-info is-outlined botonVerMas">Ver más...</button>
+        </div>
+    </div>
 </div>

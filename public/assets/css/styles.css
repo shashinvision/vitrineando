@@ -21,6 +21,16 @@
      width: 60%;
  }
 
+ .verMas {
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center
+ }
+
+ .botonVerMas {
+     width: 50%;
+ }
+
  /* fonos */
 
  @media only screen and (max-width: 360px) {
