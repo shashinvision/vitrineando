@@ -17,14 +17,14 @@
      width: 100%;
  }
 
- .busqueda {
-     width: 60%;
- }
-
- .verMas {
+ .verMas, .busqueda {
      margin-left: auto;
      margin-right: auto;
      text-align: center
+ }
+
+ .busqueda {
+     width: 100%;
  }
 
  .botonVerMas {
