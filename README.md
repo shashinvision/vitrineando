@@ -1,3 +1,3 @@
 # vitrineaya.cl
 
-## creado por Felipe Mancilla en CodeIgniter y Bulma
+## creado por Felipe Mancilla en CodeIgniter, Bulma, fontawesome y Jquery

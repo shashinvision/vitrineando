@@ -28,9 +28,10 @@
          margin-top: 2px!important;
          padding-top: 2px!important;
      }
-     .relax, .paisesComunas, select {
+     .relax, .paisesComunas, select, .users {
          margin-left: auto;
          margin-right: auto;
+         text-align: center;
      }
      .paisesComunas, select {
          width: 100%;
@@ -53,7 +54,7 @@
 
  /* tablets */
 
- @media only screen and (min-width: 361px) and (max-width: 860px) {
+ @media only screen and (min-width: 361px) and (max-width: 865px) {
      .relax, .paisesComunas, select {
          margin-left: 0 auto;
          margin-right: 0 auto;
