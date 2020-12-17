@@ -15,6 +15,12 @@ class Home extends BaseController
 		echo view('layout/footer');
 	}
 
+	public function detail(){
+		echo view('layout/header');
+		echo view('layout/mainDetail');
+		echo view('layout/footer');
+	}
+
 	//--------------------------------------------------------------------
 
 }

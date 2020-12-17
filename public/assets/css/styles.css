@@ -31,6 +31,21 @@
      width: 50%;
  }
 
+ .tituloDetalle {
+     text-align: center;
+ }
+ /* .listDetail{
+     padding-left: 10%;
+
+ }
+ .imageDetail{
+     padding-right: 5%;
+ 
+ }
+ .imageDetail img {
+    width: 80%;
+ 
+ } */
  /* fonos */
 
  @media only screen and (max-width: 360px) {
