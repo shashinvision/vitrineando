@@ -31,8 +31,8 @@
                     <label class="label is-large"><i class="fas fa-concierge-bell"></i> Datos de contacto</label>
 
         <ul class="">
-                <li class=""><i class="fab fa-whatsapp-square"></i></i> <a href="https://wa.me/56949621499" target="_blank" rel="noopener noreferrer">56949621499</a></li>
-                <li class=""><i class="fas fa-envelope-open-text"></i> <a href="mailto:fmancilla@gmail.com">fmancilla@gmail.com</a></li>
+                <li class=""><i class="fab fa-whatsapp-square"></i></i> <a href="https://wa.me/56949621499" target="_blank" >56949621499</a></li>
+                <li class=""><i class="fas fa-envelope-open-text"></i> <a href="mailto:fmancilla@gmail.com"  target="_blank">fmancilla@gmail.com</a></li>
                 <li class=""><i class="fas fa-map-marker-alt"></i> Calle imaginaria 123, comuna pudahuel, region metropolitana</li>
             </ul>
         </div>
