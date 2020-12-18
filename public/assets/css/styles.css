@@ -34,6 +34,16 @@
  .tituloDetalle {
      text-align: center;
  }
+ .estadoAbierto, .estadoCerrado{
+     font-weight: bold;
+
+ }
+ .estadoAbierto{
+     color: green!important;
+}
+.estadoCerrado{
+     color: red!important;
+ }
  /* .listDetail{
      padding-left: 10%;
 
