@@ -30,10 +30,10 @@
                   <td></td>
                   <td></td>
                   </tr>
-                    <tr>
+                    <tr class="is-selected">
                         <td>Lunes</td>
                         <td>8:00 - 19:00</td>
-                        <td class="estadoAbierto">abierto</td>
+                        <td class="estadoAbierto ">abierto</td>
                     </tr>
                     <tr>
                         <td>Martes</td>
@@ -56,7 +56,7 @@
                         <td>8:00 - 19:00</td>
                         <td class="estadoHorario"></td>
                     </tr>
-                    <tr>
+                    <tr >
                         <td>Sábado</td>
                         <td>8:00 - 14:00</td>
                         <td class="estadoCerrado">Cerrado</td>
