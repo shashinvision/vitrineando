@@ -52,6 +52,19 @@
                     </div>
                 </div>
             </div>
+            <div class="field is-horizontal">
+                <!-- <div class="field-label"></div> -->
+                <div class="field-body">
+                    <div class="field is-expanded">
+                        <div class="field has-addons">
+                            <p class="control is-expanded">
+                                <input class="input" type="tel" placeholder="Rut empresa">
+                            </p>
+                        </div>
+                        <!-- <p class="help">Do not enter the first zero</p> -->
+                    </div>
+                </div>
+            </div>
 
             <div class="field is-horizontal">
                 <div class="field-label is-normal">
