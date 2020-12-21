@@ -30,7 +30,8 @@
                   <td></td>
                   <td></td>
                   </tr>
-                    <tr class="is-selected">
+                    <!-- <tr class="is-selected"> -->
+                    <tr >
                         <td>Lunes</td>
                         <td>8:00 - 19:00</td>
                         <td class="estadoAbierto ">abierto</td>
