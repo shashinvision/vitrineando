@@ -33,6 +33,9 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('/busqueda', 'Home::busqueda');
 $routes->get('/detalle', 'Home::detail');
+$routes->get('/consultaregistro', 'Home::questRegister');
+$routes->get('/persona', 'Home::registerPerson');
+$routes->get('/empresa', 'Home::registerEmpresa');
 
 /**
  * --------------------------------------------------------------------

@@ -17,10 +17,22 @@
      width: 100%;
  }
 
- .verMas, .busqueda {
+ .verMas, .busqueda, .centrar {
      margin-left: auto;
      margin-right: auto;
      text-align: center
+ }
+
+ .centrarRegistro {
+     margin-left: 36%;
+ }
+
+ .izquierda {
+     float: left;
+ }
+
+ .derecha {
+     float: right;
  }
 
  .busqueda {
@@ -34,16 +46,19 @@
  .tituloDetalle {
      text-align: center;
  }
- .estadoAbierto, .estadoCerrado{
-     font-weight: bold;
 
+ .estadoAbierto, .estadoCerrado {
+     font-weight: bold;
  }
- .estadoAbierto{
+
+ .estadoAbierto {
      color: green!important;
-}
-.estadoCerrado{
+ }
+
+ .estadoCerrado {
      color: red!important;
  }
+
  /* .listDetail{
      padding-left: 10%;
 
@@ -56,6 +71,7 @@
     width: 80%;
  
  } */
+
  /* fonos */
 
  @media only screen and (max-width: 360px) {
@@ -78,7 +94,7 @@
      .homeCard, .sesion {
          margin-top: 1%;
      }
-     .logo {
+     .logo, .centrarRegistro {
          margin-top: 5%;
          margin-left: auto;
          margin-right: auto;
@@ -90,6 +106,13 @@
  /* tablets */
 
  @media only screen and (min-width: 361px) and (max-width: 865px) {
+     .centrarRegistro {
+         margin-top: 5%;
+         margin-left: auto;
+         margin-right: auto;
+         width: 100%;
+         text-align: center
+     }
      .relax, .paisesComunas, select {
          margin-left: 0 auto;
          margin-right: 0 auto;

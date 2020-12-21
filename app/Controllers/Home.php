@@ -20,6 +20,21 @@ class Home extends BaseController
 		echo view('layout/mainDetail');
 		echo view('layout/footer');
 	}
+	public function questRegister(){
+		echo view('layout/header');
+		echo view('layout/mainRegister');
+		echo view('layout/footer');
+	}
+	public function registerPerson(){
+		echo view('layout/header');
+		echo view('layout/personRegister');
+		echo view('layout/footer');
+	}
+	public function registerEmpresa(){
+		echo view('layout/header');
+		echo view('layout/companyRegister');
+		echo view('layout/footer');
+	}
 
 	//--------------------------------------------------------------------
 
